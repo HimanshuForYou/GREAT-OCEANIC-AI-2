@@ -1,0 +1,7 @@
+{
+  "name": "GREAT Oceanic AI",
+  "description": "An AI-powered chatbot that answers questions about oceanic data provided by the Argovis API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
